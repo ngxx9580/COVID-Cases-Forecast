@@ -1,5 +1,4 @@
 # COVID-Cases-Forecast
-MMA867 Predictive Modelling - Assignment 3
 
 # Assignment Description
 Go to the COVID-19 page on “Our World in Data” website https://ourworldindata.org/coronavirus Explore the data using Data Explorer and learn how to download the latest time series for Canada. Create time series models to forecast the number of daily new cases in Canada from September 14 to September 28, 2021.
